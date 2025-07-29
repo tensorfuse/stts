@@ -1,8 +1,8 @@
 <div align="center">
 
   <a href="https://tensorfuse.io/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/light.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.png">
     <img alt="stts logo" src="./assets/light.png" height="110" style="max-width: 100%;">
   </picture></a>
   
