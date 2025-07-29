@@ -3,7 +3,7 @@
   <a href="https://tensorfuse.io/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/light.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/dark.png">
-    <img alt="unsloth logo" src="./assets/dark.png" height="110" style="max-width: 100%;">
+    <img alt="stts logo" src="./assets/light.png" height="110" style="max-width: 100%;">
   </picture></a>
   
 <a href="https://join.slack.com/t/tensorfusecommunity/shared_invite/zt-30r6ik3dz-Rf7nS76vWKOu6DoKh5Cs5w"><img src="./assets/join_slack.png" width="165"></a>
