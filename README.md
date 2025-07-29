@@ -26,7 +26,7 @@ List of supported models along with the TTFB for each. If you want us to add mor
 ## ⚡ Quickstart
 
 - **Run with Docker (recommended)** for Linux devices:
-The easiest way to run the server is by running the following docker command in your terminal. It will start the streaming server on port 7004.
+SSH into a remote GPU server and run the following docker command in the terminal. It will start the streaming server on port 7004:
 
 ```bash
 docker run --gpus=all \
@@ -37,7 +37,7 @@ docker run --gpus=all \
   tensorfuse/stts:latest --mode tts --model orpheus
 ```
 
-You can start streaming audio from the server using the script below
+You can start streaming audio from the server using the python script below:
 
 ```python
 import requests
