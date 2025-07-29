@@ -21,7 +21,7 @@ List of supported models along with the TTFB for each. If you want us to add mor
 | Model Name | Type | TTFB | GPU Used |
 |-----------|---------|--------|----------|
 | **Orpheus(3B)**     | TTS | 400 ms | 1xL40S |
-| **Whipser** (coming soon)     | STT | ----  | ---- |
+| **Whisper** (coming soon)     | STT | ----  | ---- |
 
 ## ⚡ Quickstart
 
