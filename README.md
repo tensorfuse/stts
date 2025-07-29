@@ -27,7 +27,7 @@ List of supported models along with the TTFB for each. If you want us to add mor
 
 - **Run with Docker (recommended)** for Linux devices:
 SSH into a remote GPU server and run the following docker command in the terminal. It will start the streaming server on port 7004:
-- Note: Orpheus is a gated model on Huggingface, make sure you have access to it. 
+- Note: [Orpheus](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft) is a gated model on Huggingface, make sure you have access to it. 
 
 ```bash
 docker run --gpus=all \
