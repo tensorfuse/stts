@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tritonclient[grpc]
+transformers>=4.52.1
+accelerate>=0.20.0
+torch
+numpy
+vllm==0.7.3
+orpheus-speech

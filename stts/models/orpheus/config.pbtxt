@@ -1,0 +1,15 @@
+  name: "orpheus"
+  backend: "python"
+  max_batch_size: 0  
+  model_transaction_policy { decoupled: true }  
+  input [
+    { name: "text",       data_type: TYPE_STRING, dims: [ -1 ] }
+  ]
+  output [
+    { name: "audio",      data_type: TYPE_INT16, dims: [ -1 ] },
+    { name: "sampling_rate", data_type: TYPE_INT32, dims: [1] },
+    { name: "is_last"        data_type: TYPE_BOOL  dims: [1] }
+  ]
+  instance_group [
+    { kind: KIND_GPU, count: 1 }  
+  ]
