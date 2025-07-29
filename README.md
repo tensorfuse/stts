@@ -9,7 +9,7 @@
 <a href="https://join.slack.com/t/tensorfusecommunity/shared_invite/zt-30r6ik3dz-Rf7nS76vWKOu6DoKh5Cs5w"><img src="./assets/join_slack.png" width="165"></a>
 <a href="https://tensorfuse.io/docs/concepts/introduction"><img src="./assets/Documentation Button.png" width="137"></a>
 
-### STTS is the world's first open-source audio inference server built for voice models. It lets you self-host the latest open-source STT/TTS models with streaming API in your own infrastructure. 
+### STTS is an open-source audio inference server built specifcially for voice models. It lets you self-host the latest open-source STT/TTS models with streaming API in your own infrastructure. 
 
 
 </div>
