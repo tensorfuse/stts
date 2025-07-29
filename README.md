@@ -25,7 +25,7 @@ List of supported models along with the TTFB for each. If you want us to add mor
 
 ## ⚡ Quickstart
 
-- **Install with pip (recommended)** for Linux devices:
+- **Run with Docker (recommended)** for Linux devices:
 The easiest way to run the server is by running the following docker command in your terminal. It will start the streaming server on port 7004.
 
 ```bash
